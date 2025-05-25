@@ -8,5 +8,5 @@ def frequency_number(arr):
             freq[element] = 1
     return freq
     
-arr = [5, 6,6,7,3,5,6,2,1]
+arr = [5,6,6,7,3,5,6,2,1]
 print(frequency_number(arr))
